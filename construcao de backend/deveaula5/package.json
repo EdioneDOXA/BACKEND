@@ -1,0 +1,14 @@
+{
+  "name": "deveaula5",
+  "version": "1.0.0",
+  "description": "laboratoria 01 aula 05",
+  "main": "aula5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edione Souza Doxa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
